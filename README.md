@@ -9,5 +9,5 @@ This project is a web-based conversational chatbot application designed to provi
 3-Set up environment variables "OPENAI_API_KEY=your_openai_api_key"
 
 4- Run the Streamlit application "streamlit run app.py"
-**
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.**
+
+**#Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.**

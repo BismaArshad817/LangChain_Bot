@@ -1,7 +1,7 @@
 # LangChain_Q-A_Chatbot
 This project is a web-based conversational chatbot application designed to provide coherent and contextually relevant responses to user queries. Built using Streamlit, LangChain, and OpenAI's language model, the chatbot aims to offer a seamless and engaging user experience.
 
-**#Installation:**
+# Installation:
 1- Clone the repository "git clone https://github.com/BismaArshad817/LangChain_Q-A_Chatbot.git"
 
 2- Install the required packages "pip install -r requirements.txt"
@@ -10,4 +10,4 @@ This project is a web-based conversational chatbot application designed to provi
 
 4- Run the Streamlit application "streamlit run app.py"
 
-**#Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.**
+# Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.

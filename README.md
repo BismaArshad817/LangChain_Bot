@@ -1,4 +1,4 @@
-# LangChain_Q-A_Chatbot
+# LangchainBot
 This project is a web-based conversational chatbot application designed to provide coherent and contextually relevant responses to user queries. Built using Streamlit, LangChain, and OpenAI's language model, the chatbot aims to offer a seamless and engaging user experience.
 
 # Installation:
